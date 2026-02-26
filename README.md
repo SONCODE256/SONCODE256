@@ -46,4 +46,4 @@
 
 
 ## Resume
-- [Download my resume (PDF)](./resume/Son_Thanh_Nguyen_Resume.pdf)
+- [Download Resume](./resume/Son%20Thanh%20Nguyen%20Resume.pdf)
